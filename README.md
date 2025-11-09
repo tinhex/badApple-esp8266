@@ -1,5 +1,5 @@
 # badApple-esp8266
-This is a project for ESP8266 with a 0.96-inch OLED screen, or rather, a project with Bad Apple animation at 16 fps. Feel free to use it, as there is no license required.
+This is a project for ESP8266 with a 0.96-inch OLED screen, or rather, a project with Bad Apple animation at 16 fps. Feel free to use it, as there is no license required. (IN SOURCE CODE there is FOLDER pmbs)
 
 > ⚠️ **Note**: Due to memory limitations, this version is **not recommended for direct upload to ESP8266**. The full 47-second animation (~752 frames @ 16 FPS) exceeds the available flash memory (`irom0` segment). Use only for reference or adapt it for **ESP32** or **shorter clips**.
 
